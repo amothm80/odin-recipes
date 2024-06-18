@@ -1,7 +1,21 @@
 *{
 font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-background-color: rgb(212, 221, 230)}
+background-color: rgb(212, 221, 230);}
 
+header{
+    outline: 3px solid maroon;
+}
+
+
+h1{
+    outline: 3px groove gray;
+}
+body{
+    outline: 3px solid black;
+    margin:10px;
+    padding: 20px;
+    border:10px solid red;
+}
 
 strong{
     color: rgb(167, 98, 112);
